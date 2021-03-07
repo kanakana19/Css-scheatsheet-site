@@ -1,4 +1,187 @@
+
 header{
     font-weight: bold;
     text-align: center;
+    text-shadow: 5px;
+    font-size: 50px;
+    background-color:cadetblue;
+}
+
+.fonts{
+    
+    background-color: aliceblue;
+}
+.typo{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+
+}
+#typop{
+    font-size: 35px;
+}
+
+.tnr{
+    font-size: small;
+    float: left;
+    width: 30%;
+    position: relative;
+}
+#tnrb{
+    font-weight: bold;
+}
+#tnrit{
+    font-style: italic;
+}
+.ar{
+    font-size: small;
+    float: left;
+    width: 30%;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#arb{
+    font-weight: bold;
+}
+#arit{
+    font-style: italic;
+}
+#helb{
+    font-weight: bold;
+}
+#helit{
+    font-style:italic;
+}
+
+.hel{
+    font-size: small;
+    float: left;
+    width: 35%;
+    position: relative;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.gfon{
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.colors{
+    background-color:beige;
+    display: inline-block;
+    width: 100%
+}
+
+.colorintro{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#colorp{
+    font-size: 35px;
+}
+
+#colorsh{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#namered{
+    background-color: red;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#nameblue{
+    background-color: blue;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+#nameyellow{
+    background-color: yellow;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.rgbcolor{
+    display: inline-block;
+    width: 100%;
+}
+
+#rgbred{
+    background-color: #ff0000;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#rgbblue{
+    background-color: #003cff;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#rgbyellow{
+    background-color: #ffff00;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+#hslred{
+    background-color: hsl(0, 100%, 50%);
+    float: left;
+    width: 33%;
+    text-align: center
+}
+
+#hslblue{
+    background-color: hsl(240, 100%, 50%);
+    float: left;
+    width: 33%;
+    text-align: center
+}
+
+#hslyellow{
+    background-color: hsl(60, 100%, 50%);
+    float: left;
+    width: 33%;
+    text-align: center
+}
+
+#thebox{
+    background-color: khaki;
+    display: inline-block;
+    width: 100%;
+    font-size: medium;
+}
+
+#boxtitle{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul{
+    font-weight: bold;
+}
+
+img{
+    position: relative;
+    left: 40%;
+}
+
+footer{
+    font-weight: bold;
+    text-align: right;
+    text-shadow: 5px;
+    background-color:cadetblue;
 }
